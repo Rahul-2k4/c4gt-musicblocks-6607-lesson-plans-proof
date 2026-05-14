@@ -2,7 +2,7 @@
 
 Purpose: prove issue understanding before final DMP submission. This replacement project replaces P1 SugarLabs #6612.
 
-Latest scope note: Sugar Labs maintainer feedback on PR #7345 clarified that Music Blocks already has lesson plans in place. These drafts should be treated as DMP proposal demo material for now, not as an upstream contribution claim.
+Latest scope note: Sugar Labs maintainer feedback on PR #7345 clarified that Music Blocks already has lesson plans in place. These drafts should be treated as DMP proposal demo material for now, not as a repo-merge claim.
 
 ## Artifacts
 
@@ -16,7 +16,7 @@ Latest scope note: Sugar Labs maintainer feedback on PR #7345 clarified that Mus
 
 - [`screenshots/lesson-plan-framework.png`](screenshots/lesson-plan-framework.png) - How the pieces fit: a teacher picks a lesson plan, students work through Music Blocks widgets, and the rubric closes the loop.
 - [`screenshots/sample-lesson-preview.png`](screenshots/sample-lesson-preview.png) - The beginner "Pitch and Rhythm Explorers" lesson. Shows the full layout: learning objectives, blocks, 5-step activity flow, scoring rubric, and extension ideas.
-- [`screenshots/pr-7345-proof.png`](screenshots/pr-7345-proof.png) - PR #7345 feedback context. The files were prepared as proposal demo material. They are not claimed as accepted upstream work.
+- [`screenshots/pr-7345-proof.png`](screenshots/pr-7345-proof.png) - PR #7345 feedback context. The files were prepared as proposal demo material. They are not claimed as merged work.
 
 ## Maintainer Feedback Context
 
