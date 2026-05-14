@@ -28,4 +28,4 @@ Existing lesson-plan folder: https://drive.google.com/drive/folders/17dWeTTlA4Sv
 
 ## Reviewer Boundary
 
-This is a proof package for proposal review, not accepted upstream work. Claim boundary: PR #7345 is feedback evidence only. The full 8-10 lesson plan set remains proposal scope and should be aligned with mentors before any upstream placement decision.
+This is a proof package for proposal review, not merged upstream work. Claim boundary: PR #7345 is feedback evidence only. The full 8-10 lesson plan set remains proposal scope and should be aligned with mentors before any upstream placement decision.
